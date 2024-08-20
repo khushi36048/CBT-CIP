@@ -1,0 +1,14 @@
+iCoder
+iCoder is a blog platform built entirely using Bootstrap. It provides a clean and responsive interface for users to read and share blog posts on various topics. This project is designed to demonstrate the power of Bootstrap in creating a fully functional and visually appealing web application.
+Features
+Responsive design with Bootstrap 4/5.
+Clean and modern user interface.
+Blog post listing with categories and tags.
+Search functionality to find posts.
+Comment section for user interaction.
+Easy to customize and expand.
+Technologies Used
+Bootstrap 4/5: For responsive design and layout.
+HTML5: For structuring the content.
+CSS3: For additional styling.
+JavaScript: For interactivity and dynamic content.
