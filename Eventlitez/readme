@@ -1,0 +1,12 @@
+EventLitez
+EventLitez is a beginner-friendly event listing website built using HTML, CSS, and JavaScript. The project is designed to help new developers understand the basics of front-end web development while creating a simple yet functional event listing platform.
+Features
+Simple and intuitive user interface.
+Responsive design compatible with various devices.
+Event listing with details such as date, time, location, and description.
+Filter events based on categories or date.
+Search functionality to find specific events.
+Technologies Used
+HTML5: For structuring the content.
+CSS3: For styling the website.
+JavaScript: For interactivity and dynamic content.
